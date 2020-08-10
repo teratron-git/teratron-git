@@ -5,7 +5,6 @@ My name is Sergei Tereshkov!
 <br/>
 I'm Frontend Developer!</h2>
 
-
 <h3 align="center">Tech Stack:</h3>
 
 <p align="center">
@@ -18,8 +17,8 @@ HTML, CSS, JavaScript, Git, GitHub, PostgreSQL</p>
 - 🔭 Work for an international automotive company as a Leading Electronics and Data Specialist for over 12 years
 - 🌱 <b><ins>Open to new opportunities as Frontend Developer!</ins></b>
 - 🔮 Master's degree
-- 🥅 2020 Goals: Start to contribute Open Source projects
-- ⚡ Hobby: I'm the founder of a <b><a href="https://terraband.ru" title="TerrariuM [Heavy Metal Band] site">Heavy Metal band "TerratiuM"</a></b> [also vocalist, guitarist, composer and manager]
+- 🥅 2020 Goal: start contributing to Open Source projects
+- ⚡ Founder of the <b><a href="https://terraband.ru" title="TerrariuM [Heavy Metal Band] site">Heavy Metal band "TerratiuM"</a></b> [also vocalist, guitarist, composer and manager]
 
 <h3 align="center">Feel free to contact me:</h3>
 <p align="center">
