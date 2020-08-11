@@ -1,6 +1,6 @@
-<h2 align="center"> Hi there! 👋
+<h2 align="center"> 👋 Hi there! 👋 
 <br/>
-My name is Sergei Tereshkov! 
+My name is Sergei Tereshkov!
 <br/>
 <br/>
 I'm Frontend Developer!</h2>
@@ -16,9 +16,9 @@ HTML, CSS, JavaScript, Git, GitHub, PostgreSQL</p>
 
 - 🔭 Work for an international automotive company as a Leading Electronics and Data Specialist for over 12 years
 - 🌱 <b><ins>Open to new opportunities as Frontend Developer!</ins></b>
-- 🔮 Master's degree
+- 👨‍🎓 Master's degree
 - 🥅 2020 Goal: start contributing to Open Source projects
-- ⚡ Founder of the <b><a href="https://terraband.ru" title="TerrariuM [Heavy Metal Band] site">Heavy Metal band "TerratiuM"</a></b> [also vocalist, guitarist, composer and manager]
+- 🤘 Founder of the <b><a href="https://terraband.ru" title="TerrariuM [Heavy Metal Band] site">Heavy Metal band "TerratiuM"</a></b> [also vocalist, guitarist, composer and manager]
 
 <h3 align="center">Feel free to contact me:</h3>
 <p align="center">
@@ -32,7 +32,6 @@ HTML, CSS, JavaScript, Git, GitHub, PostgreSQL</p>
 ---
 
 <p align="center">
-  <img align="center"   width="495px" alt="[Segei Tereshkov] Github Stats" src="https://github-readme-stats.vercel.app/api?username=teratron-git&show_icons=true&hide_border=true&hide=issues,contribs&count_private=true&theme=merko&include_all_commits=true" />
-  <br />
-  <img align="center"   width="495px" alt="[Segei Tereshkov] Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teratron-git&hide_border=false&layout=compact&theme=merko" />
+  <img align="center"   width="400px" alt="[Segei Tereshkov] Github Stats" src="https://github-readme-stats.vercel.app/api?username=teratron-git&show_icons=true&hide_border=false&hide=issues,contribs&count_private=true&theme=merko&include_all_commits=true&line_height=28" />
+  <img align="center"   width="400px" alt="[Segei Tereshkov] Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teratron-git&hide_border=true&layout=compact&theme=merko&card_width=486" />
 </p>
