@@ -6,9 +6,9 @@
   I'm Frontend Developer!
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/stereshkov/" title="Sergei Tereshkov | LinkedIn"><img align="center" alt="Sergei Tereshkov | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vk.com/teratron"                 title="Sergei Tereshkov | VK">      <img align="center" alt="Sergei Tereshkov | VK"       width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://career.habr.com/teratron"        title="Sergei Tereshkov | Habr">    <img align="center" alt="Sergei Tereshkov | Habr"     width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/habr.svg" /></a>
+  <a href="https://www.linkedin.com/in/stereshkov/" title="Sergei Tereshkov | LinkedIn"><img align="center" alt="Sergei Tereshkov | LinkedIn" width="30px" src="https://www.dutchcowboys.nl/uploads/posts/list/linkedin-500-miljoen.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vk.com/teratron"                 title="Sergei Tereshkov | VK">      <img align="center" alt="Sergei Tereshkov | VK"       width="30px" src="https://sun9-24.userapi.com/c844617/v844617719/1fd53d/AtRWPjRlm1U.jpg?ava=1" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://career.habr.com/teratron"        title="Sergei Tereshkov | Habr">    <img align="center" alt="Sergei Tereshkov | Habr"     width="30px" src="https://idid.lv/wp-content/uploads/2019/12/460x0w.png" /></a>
 </p>
 
 ---
