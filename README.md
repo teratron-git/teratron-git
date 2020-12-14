@@ -6,9 +6,9 @@
   I'm Frontend Developer!
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/stereshkov/" title="Sergei Tereshkov | LinkedIn"><img align="center" alt="Sergei Tereshkov | LinkedIn" width="30px" src="https://www.dutchcowboys.nl/uploads/posts/list/linkedin-500-miljoen.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vk.com/teratron"                 title="Sergei Tereshkov | VK">      <img align="center" alt="Sergei Tereshkov | VK"       width="30px" src="https://sun9-24.userapi.com/c844617/v844617719/1fd53d/AtRWPjRlm1U.jpg?ava=1" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://career.habr.com/teratron"        title="Sergei Tereshkov | Habr">    <img align="center" alt="Sergei Tereshkov | Habr"     width="30px" src="https://idid.lv/wp-content/uploads/2019/12/460x0w.png" /></a>
+  <a href="https://www.linkedin.com/in/stereshkov/" title="Sergei Tereshkov | LinkedIn"><img align="center" alt="Sergei Tereshkov | LinkedIn" width="30px" src="linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vk.com/teratron"                 title="Sergei Tereshkov | VK">      <img align="center" alt="Sergei Tereshkov | VK"       width="30px" src="vk.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://career.habr.com/teratron"        title="Sergei Tereshkov | Habr">    <img align="center" alt="Sergei Tereshkov | Habr"     width="30px" src="habr.svg" /></a>
 </p>
 
 ---
@@ -26,9 +26,9 @@
 - 🔭 Work for an international automotive company as a Leading Electronics and Data Specialist for over 12 years
 - 🌱 <b><ins>Open to new opportunities as Frontend Developer!</ins></b>
 - 👨‍🎓 Master's degree
-- 🥅 2020 Goal: start contributing to Open Source projects
+- 🥅 2021 Goal: start contributing to Open Source projects
 - 🤘 Founder of the <b><a href="https://terraband.ru" title="TerrariuM [Heavy Metal Band] site">Heavy Metal band "TerratiuM"</a></b> [also vocalist, guitarist, composer and manager]
 <p align="center">
-  <img align="center" width="400px" alt="[Segei Tereshkov] Github Stats"     src="https://github-readme-stats.vercel.app/api?username=teratron-git&show_icons=true&hide_border=false&hide=issues,contribs&count_private=true&theme=merko&include_all_commits=true&line_height=28" />
-  <img align="center" width="400px" alt="[Segei Tereshkov] Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teratron-git&hide_border=true&layout=compact&theme=merko&card_width=486" />
+  <img align="center" width="70%" alt="[Segei Tereshkov] Github Stats"     src="https://github-readme-stats.vercel.app/api?username=teratron-git&show_icons=true&hide_border=false&count_private=true&theme=merko&include_all_commits=true&line_height=28" />
+  <img align="center" width="70%" alt="[Segei Tereshkov] Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teratron-git&hide_border=false&layout=compact&theme=merko&card_width=486" />
 </p>
