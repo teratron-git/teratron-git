@@ -16,17 +16,18 @@
 <h4 align="center">👇 <ins>Tech Stack</ins> 👇</h4>
 
 <p align="center">
-  <b><ins>M</ins></b>ongoDB, <b><ins>E</ins></b>xpress, <b><ins>R</ins></b>eact, <b><ins>N</ins></b>odeJS - aka <b>[<ins>MERN</ins>]</b>
+  <b><ins>M</ins></b>ongoDB/<b><ins>M</ins></b>ySQL, <b><ins>E</ins></b>xpress, <b><ins>R</ins></b>eact, <b><ins>N</ins></b>odeJS - aka <b>[<ins>MERN</ins>]</b>
   <br/>
-  HTML, CSS, JavaScript, Git, GitHub, PostgreSQL
+  HTML, CSS, JavaScript, Git, PostgreSQL
 </p>
 
 <h4 align="center">👇 <ins>Some facts about me</ins> 👇</h4>
 
-- 🔭 Work for an international automotive company as a Leading Electronics and Data Specialist for over 12 years
+- 🔭 Worked for an international automotive company as a <b>Leading Electronics and Data Specialist</b> for over 12 years
+- 💻 Since 2021 work as <strong>JavaScript Developer</strong>
 - 🌱 <b><ins>Open to new opportunities as Frontend Developer!</ins></b>
 - 👨‍🎓 Master's degree
-- 🥅 2021 Goal: start contributing to Open Source projects
+- 🥅 2021 Goal: start contributing to Open Source projects [done!]
 - 🤘 Founder of the <b><a href="https://terraband.ru" title="TerrariuM [Heavy Metal Band] site">Heavy Metal band "TerratiuM"</a></b> [also vocalist, guitarist, composer and manager]
 <p align="center">
   <img align="center" width="400px" alt="[Segei Tereshkov] Github Stats"     src="https://github-readme-stats.vercel.app/api?username=teratron-git&show_icons=true&hide_border=false&count_private=true&theme=merko&include_all_commits=true&line_height=19" />
