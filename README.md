@@ -5,11 +5,6 @@
   <br/>
   I'm Frontend Developer!
 </h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/stereshkov/" title="Sergei Tereshkov | LinkedIn"><img align="center" alt="Sergei Tereshkov | LinkedIn" width="30px" src="linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vk.com/teratron"                 title="Sergei Tereshkov | VK">      <img align="center" alt="Sergei Tereshkov | VK"       width="30px" src="vk.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://career.habr.com/teratron"        title="Sergei Tereshkov | Habr">    <img align="center" alt="Sergei Tereshkov | Habr"     width="30px" src="habr.svg" /></a>
-</p>
 
 ---
 
