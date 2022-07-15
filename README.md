@@ -11,7 +11,7 @@
 <h4 align="center">👇 <ins>Tech Stack</ins> 👇</h4>
 
 <p align="center">
-  <b><ins>M</ins></b>ongoDB/<b><ins>M</ins></b>ySQL, <b><ins>E</ins></b>xpress, <b><ins>R</ins></b>eact, <b><ins>N</ins></b>odeJS - aka <b>[<ins>MERN</ins>]</b>
+  <b><ins>M</ins></b>ySQL/<b><ins>M</ins></b>ongoDB, <b><ins>E</ins></b>xpress, <b><ins>R</ins></b>eact, <b><ins>N</ins></b>odeJS - aka <b>[<ins>MERN</ins>]</b>
   <br/>
   HTML, CSS, JavaScript, Git, PostgreSQL
 </p>
