@@ -13,7 +13,7 @@
 <p align="center">
   <b><ins>M</ins></b>ySQL/<b><ins>M</ins></b>ongoDB, <b><ins>E</ins></b>xpress, <b><ins>R</ins></b>eact, <b><ins>N</ins></b>odeJS - aka <b>[<ins>MERN</ins>]</b>
   <br/>
-  HTML, CSS, JavaScript, Git, PostgreSQL
+  HTML, CSS, JavaScript/Typescript, Git
 </p>
 
 <h4 align="center">👇 <ins>Some facts about me</ins> 👇</h4>
