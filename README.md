@@ -19,10 +19,10 @@
 <h4 align="center">👇 <ins>Some facts about me</ins> 👇</h4>
 
 - 🔭 Worked for an international automotive company as a <b>Leading Electronics and Data Specialist</b> for over 12 years
-- 💻 Since 2021 work as <strong>JavaScript Developer</strong>
+- 💻 Since 2018 work as <strong>Frontend Developer</strong>
 - 🌱 <b><ins>Open to new opportunities as Frontend Developer!</ins></b>
 - 👨‍🎓 Master's degree
 <p align="center">
-  <img align="center" width="400px" alt="[Segei Tereshkov] Github Stats"     src="https://github-readme-stats.vercel.app/api?username=teratron-git&show_icons=true&hide_border=false&count_private=true&theme=merko&include_all_commits=true&line_height=19" />
+  <img align="center" width="400px" alt="[Segei Tereshkov] Github Stats"     src="https://github-readme-stats.vercel.app/api?username=teratron-git&show_icons=true&hide_border=false&count_private=true&theme=merko&include_all_commits=false&line_height=19" />
   <img align="center" width="401px" alt="[Segei Tereshkov] Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teratron-git&hide_border=false&layout=compact&theme=merko&card_width=465" />
 </p>
